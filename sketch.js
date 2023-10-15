@@ -46,7 +46,7 @@ function draw() {
         createBullets()
 
     }
-    //createEnemies()
+    createEnemies()
     collideWithEnemy()
 
 
